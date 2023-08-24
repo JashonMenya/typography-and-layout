@@ -1,8 +1,10 @@
 # Typography and Layout
 
 ## Table of Contents
+
 - [A Brief History of Type](#a-brief-history-of-type)
 - [Anatomy of Type](#anatomy-of-type)
+
   - [Counters and Counterforms](#counters-and-counterforms)
   - [Ascenders and Descenders](#ascenders-and-descenders)
   - [Strokes and Shapes](#strokes-and-shapes)
@@ -13,6 +15,8 @@
   - [Angle of Stress](#angle-of-stress)
   - [x-Height Ratio and Set Width](#x-height-ratio-and-set-width)
   - [Type Measurements](#type-measurements)
+  - [Deeper Dive](projects/letter_anatomy/README.md)
+
 - [Chapter Summary](#chapter-summary)
 
 ## A Brief History of Type
