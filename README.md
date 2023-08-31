@@ -15,7 +15,7 @@
   - [Angle of Stress](#angle-of-stress)
   - [x-Height Ratio and Set Width](#x-height-ratio-and-set-width)
   - [Type Measurements](#type-measurements)
-  - [Deeper Dive](projects/letter_anatomy/README.md)
+  - [Deeper Dive](projects/letter-anatomy/README.md)
 
 - [Chapter Summary](#chapter-summary)
 
