@@ -11,12 +11,13 @@ The primary goals of this project are as follows:
 
 ## Project Process
 
-1. **Source Selection**: Search for captivating design work from platforms such as [Behance](#), [Pinterest](#), [Google](#), [Designpiration](#), and more.
+1. **Source Selection**: Search for captivating design work from platforms such as [Behance](https://www.behance.net/), [Pinterest](https://www.pinterest.com/), [Google](https://www.google.com/), [Designpiration](https://www.designspiration.com/), and more.
 2. **Journal Entry Creation**: Construct a journal entry on an 8.5x11" page containing the following components:
-    - Designer's name
-    - Three samples showcasing the designer's work
-    - A self-written biography and brief overview of the designer's portfolio
-    - Personal reflection on the design (3-5 sentences) and an explanation of the inspiring elements.
+
+   - Designer's name
+   - Three samples showcasing the designer's work
+   - A self-written biography and brief overview of the designer's portfolio
+   - Personal reflection on the design (3-5 sentences) and an explanation of the inspiring elements.
 
 3. **Tools and Medium**: Employ software such as Word, PowerPoint, Google Docs, Google Slides, Illustrator, Canva, or any preferred application.
 
